@@ -12,3 +12,15 @@ C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\Output
 C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.pdb
 C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.Geracao.dll
 C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.Geracao.pdb
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.exe
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.pdb
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.Geracao.dll
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\Output\Binarios\MT.GeradorDeCaracteres.Geracao.pdb
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.csprojAssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.Properties.Resources.resources
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.Views.GeradorDeCaracteresView.resources
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.csproj.GenerateResource.cache
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.csproj.CopyComplete
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.exe
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\obj\x86\Debug\MT.GeradorDeCaracteres.pdb

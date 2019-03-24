@@ -3,3 +3,9 @@ C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\MT.Ger
 C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.dll
 C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.pdb
 C:\Users\marco.felix\Documents\GeradorDeCaracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.csprojResolveAssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\bin\Debug\MT.GeradorDeCaracteres.Geracao.dll
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\bin\Debug\MT.GeradorDeCaracteres.Geracao.pdb
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.csprojAssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.dll
+C:\Users\marco\Documents\GitHub\Repositórios\Gerador-de-Caracteres\MT.GeradorDeCaracteres\MT.GeradorDeCaracteres.Geracao\obj\Debug\MT.GeradorDeCaracteres.Geracao.pdb

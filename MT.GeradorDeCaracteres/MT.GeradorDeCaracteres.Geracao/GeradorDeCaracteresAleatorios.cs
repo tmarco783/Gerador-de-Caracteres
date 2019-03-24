@@ -49,24 +49,28 @@ namespace MT.GeradorDeCaracteres.Geracao
 
         private string ObtenhaCaracteresParaGeracao()
         {
-            if (parametrosDaGeracao.TipoDeCaracter == EnumTipoDeCaracter.ALFABETICOS)
+            string caracteresParaGeracao;
+
+            switch (parametrosDaGeracao.TipoDeCaracter)
             {
-                return ArmazemDeCaracteres.ObtenhaCaracteresAlfabeticos();
-            }
-            else if (parametrosDaGeracao.TipoDeCaracter == EnumTipoDeCaracter.ESPECIAIS)
-            {
-                return ArmazemDeCaracteres.ObtenhaCaracteresEspeciais();
-            }
-            else if (parametrosDaGeracao.TipoDeCaracter == EnumTipoDeCaracter.NUMERICOS)
-            {
-                return ArmazemDeCaracteres.ObtenhaCaracteresNumericos();
-            }
-            else if (parametrosDaGeracao.TipoDeCaracter == EnumTipoDeCaracter.TODOS)
-            {
-                return ArmazemDeCaracteres.ObtenhaTodosOsCaracteres();
+                case EnumTipoDeCaracter.ALFABETICOS:
+                    caracteresParaGeracao =  ArmazemDeCaracteres.ObtenhaCaracteresAlfabeticos();
+                    break;
+                case EnumTipoDeCaracter.NUMERICOS:
+                    caracteresParaGeracao = ArmazemDeCaracteres.ObtenhaCaracteresNumericos();
+                    break;
+                case EnumTipoDeCaracter.ESPECIAIS:
+                    caracteresParaGeracao = ArmazemDeCaracteres.ObtenhaCaracteresEspeciais();
+                    break;
+                case EnumTipoDeCaracter.TODOS:
+                    caracteresParaGeracao = ArmazemDeCaracteres.ObtenhaTodosOsCaracteres();
+                    break;
+                default:
+                    caracteresParaGeracao = string.Empty;
+                    break;
             }
 
-            return string.Empty;
+            return caracteresParaGeracao;
         }
 
         #endregion
